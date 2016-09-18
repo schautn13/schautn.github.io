@@ -1,0 +1,79 @@
+body {
+	margin:0;
+	background-color: blue;
+}
+.Title {
+	color: white;
+	background-color: red;
+	font-size: 40px;
+	text-align: center;
+	font-family: Arial
+}
+.Instructions {
+	color: white;
+	font-family: Arial;
+	font-size: 20px;
+	text-align: left;
+	display: flex;
+}
+.image {
+	height: 150px;
+	width: 30px;
+	display: flex;
+}
+.Steps {
+	margin: 30px;
+	display: flex;
+}
+.Instruction1 {
+	color:white;
+	font-family: Arial;
+}
+.desription1 {
+	color: yellow;
+	font-family:Arial;
+	text-align: left;
+	margin: auto;
+
+}
+.Instruction2 {
+	color: white;
+	font-family: Arial;
+}
+.desription2 {
+	color: yellow;
+	font-family:Arial;
+	text-align: left;
+	margin: auto;
+}
+
+.Instruction3 {
+	color: white;
+	font-family: Arial;
+}
+.desription3 {
+	color: yellow;
+	font-family:Arial;
+	text-align: left;
+	margin: auto;
+}
+.Instruction4 {
+	color: white;
+	font-family: Arial;
+}
+.desription4 {
+	color: yellow;
+	font-family:Arial;
+	text-align: left;
+	margin: auto
+}
+.Instruction5 {
+	color: white;
+	font-family: Arial;
+}
+.desription5 {
+	color: yellow;
+	font-family:Arial;
+	text-align: left;
+	margin: auto
+}
